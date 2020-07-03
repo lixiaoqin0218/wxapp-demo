@@ -1,0 +1,4 @@
+<view class='wapper'>
+  <text>custom-ul</text>
+  <slot></slot>
+</view>

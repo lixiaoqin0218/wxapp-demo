@@ -1,0 +1,4 @@
+<view>
+  <text>li-item</text>
+  <slot></slot>
+</view>

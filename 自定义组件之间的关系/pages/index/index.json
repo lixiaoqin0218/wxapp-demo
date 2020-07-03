@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "custom-ul": "../mycom/mycom",
+    "custom-li": "../mycomchild/mycomchild"
+  }
+}
